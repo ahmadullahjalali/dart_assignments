@@ -9,7 +9,7 @@ main() {
   // QUESTION two
   // =====================
 
-  // var int = 7;
+  // final int = 7;
   // print(int);
 
   // QUESTION THREE
